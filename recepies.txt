@@ -3,5 +3,7 @@ welcome to ramas kitchen
 kheer
 biryani
 chicken
+beans
+pizza
 
 thank you
